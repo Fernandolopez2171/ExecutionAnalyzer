@@ -38,17 +38,6 @@ El proyecto está organizado de la siguiente manera:
 3. Asegúrate de que el proyecto está configurado para ejecutarse con .NET 8.
 
 
-
-## Contribuciones
-
-Si deseas contribuir al proyecto, puedes hacerlo de la siguiente manera:
-
-1. Haz un fork del repositorio.
-2. Crea una rama para tu funcionalidad o corrección de errores (`git checkout -b feature/nueva-funcionalidad`).
-3. Realiza tus cambios y haz commit (`git commit -m "Agrega nueva funcionalidad"`).
-4. Haz push a tu rama (`git push origin feature/nueva-funcionalidad`).
-5. Abre un Pull Request.
-
 ## Licencia
 
 Este proyecto está bajo la licencia MIT. Consulta el archivo `LICENSE` para más detalles.
