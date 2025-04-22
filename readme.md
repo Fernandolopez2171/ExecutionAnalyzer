@@ -42,8 +42,5 @@ El proyecto está organizado de la siguiente manera:
 
 Este proyecto está bajo la licencia MIT. Consulta el archivo `LICENSE` para más detalles.
 
-## Contacto
-
-Si tienes preguntas o sugerencias, no dudes en abrir un issue en el repositorio.
 
 ---
